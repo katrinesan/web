@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <meta charset="UTF-8">
+  <title>Kuben Koder Klubben</title>
+<link rel="stylesheet" type="text/css" href="kkkcss.css">
+</head>
+
+<body>
+  <center>
+    <div class="container">
+
+
+  <a href="kkk.html">  <div class="banner"></div></a>
+<ul>
+  <li  class="meny"><a href="kkkmedlemer.html">medlemmer</a></li>
+  <li  class="meny"><a href="kkkressurser.html">ressurser</a></li>
+  <li  class="meny"><a href="#">Om oss</a></li>
+</ul>
+
+<a href="http://boards.4chan.org/mlp/"><img class="corner" src="darkpepe.png"> </a>
+
+</div>
+</body>
+<footer>
+
+</footer>
+</html>
